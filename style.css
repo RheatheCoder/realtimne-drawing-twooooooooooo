@@ -1,0 +1,21 @@
+.heading{
+    color: white;
+    background-color: peachpuff;
+    width:100%;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    background-color: peachpuff;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+}
+
+canvas{
+    border: 5px dotted white;
+    border-radius: 20px;
+    box-shadow: 5px, 5px, 5px, white;
+}
